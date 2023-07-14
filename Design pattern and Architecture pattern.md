@@ -11,3 +11,14 @@ There are 3 types of design pattern:
 2 - Structral design pattern
 
 3 - Behavioural design pattern
+
+Architecture pattern:
+
+Is also a general, re-usable resolution to a commonly occuring problem within software architecture. 
+And there are 3 types of it:
+
+1 - MVC ( Model View Controller )
+
+2 - MVP ( Model View Presenter )
+
+3 - MVVM ( Model View Viewmodel )
