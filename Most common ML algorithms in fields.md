@@ -4,4 +4,4 @@
 
 3 - logistic regression 
 
-4 - 
+4 - linear regression 
